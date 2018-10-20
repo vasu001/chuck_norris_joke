@@ -6,3 +6,4 @@ A simple AJAX project to fetch data through API and display it using Javascript.
 http://www.icndb.com/
 
 ## Project View
+https://vasu001.github.io/chuck_norris_joke/
