@@ -7,3 +7,6 @@ http://www.icndb.com/
 
 ## Project View
 https://vasu001.github.io/chuck_norris_joke/
+
+## Important
+If your browser doesn't allow the script to load by mentioning it unsafe, check the code in dist/app.js and allow the script if you like. It's a simple AJAX request.
