@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://vasu001.github.io/chuckjoke",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
